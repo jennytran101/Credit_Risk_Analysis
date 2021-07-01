@@ -61,7 +61,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 
 3. Combination Imbalanced Classification Report
 
-![report](resources/Combination_mbalanced_Classification_Reportg.pn)
+![report](resources/Combination_Sampling_Classification_Report.png)
 
 
 
