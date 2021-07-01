@@ -1,6 +1,7 @@
 # Credit_Risk_Analysis
 
-# The purpose: As a lead data scientist build and evaluate machine learning model or algorithms to predict credit risk. Technique need to be used in this challenge is sampling and boosting to make model and data.
+# The purpose: 
+As a lead data scientist build and evaluate machine learning model or algorithms to predict credit risk. Technique need to be used in this challenge is sampling and boosting to make model and data.
 
 # Results:
 
