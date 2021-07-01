@@ -9,7 +9,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 
 1. Accuracy score for the mode:
 2. 
-![score](resources/NR_accuracy score.png)
+![score](resources/NR_accuracy_score.png)
 
 2. Confusion matrix:
 
