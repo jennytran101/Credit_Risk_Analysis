@@ -68,7 +68,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 
 # Deliverable 3
 
-# Balanced Random Forest Classifier
+## Balanced Random Forest Classifier
 
 1. Balanced Random Forest Classifier Accuracy Score
 
@@ -83,7 +83,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 
 ![report](resources/D3_balanced_imbalanced_Classification_Report.png)
 
-# Easy Ensemble AdaBoost Classifier
+## Easy Ensemble AdaBoost Classifier
 
 1. Easy Ensemble AdaBoost Classifier Accuracy Score
 
@@ -97,6 +97,13 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 3. Easy Ensemble AdaBoost Classifier Imbalanced Classification Report
 
 ![report](resources/EasyEnsembleAdaBoostClassifier_Imbalanced_Classification_Report.png)
+
+# Summary:
+Oversampling models has accuracy scores of 66%. Undersampling model has accuracy scores of 54%. Based on the accuracy score the combination of 2 models mentioned above did not make much difference
+The random forest has accuracy scores of 78%. Ensemble boost models has accuracy scores of 93%. The ensemble model had the best precision and sensitivity for high-risk loans.
+We will miss the revenue if we overmarking the risk in wrong ways. 
+
+
 
 
 
