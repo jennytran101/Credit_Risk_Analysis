@@ -32,3 +32,18 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 3. Imbalanced Classification Report
 
 ![report](resources/smote_imbalanced_classification_report.png)
+
+## Undersampling
+1. Undersampling Accuracy Score
+
+![score](resources/undersampling_accracy_score.png)
+
+2. Undersampling Confusion matrix
+![matrix](resources/undersampling_confusion_matrix.png)
+
+
+3. Undersampling Imbalanced Classification Report
+
+![report](resources/Undersampling_Imbalanced_Classification_Report.png)
+
+
