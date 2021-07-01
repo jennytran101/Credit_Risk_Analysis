@@ -66,5 +66,40 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ![report](resources/Combination_mbalanced_Classification_Report.png)
 
 
+# Deliverable 3
+
+# Balanced Random Forest Classifier
+
+1. Balanced Random Forest Classifier Accuracy Score
+
+![score](resources/D3_balanced_Accuracy_Score.png)
+
+2. Balanced Random Forest Classifier Confusion matrix
+
+![matrix](resources/D3_balanced_Confusion_matrix.png)
+
+
+3. Balanced Random Forest Classifier Imbalanced Classification Report
+
+![report](resources/D3_balanced_imbalanced_Classification_Report.png)
+
+# Easy Ensemble AdaBoost Classifier
+
+1. Easy Ensemble AdaBoost Classifier Accuracy Score
+
+![score](resources/EasyEnsembleAdaBoostClassifier_Accuracy_Score.png)
+
+2. Easy Ensemble AdaBoost Classifier Confusion matrix
+
+![matrix](resources/EasyEnsembleAdaBoostClassifier_Confusion_matrix.png)
+
+
+3. Easy Ensemble AdaBoost Classifier Imbalanced Classification_Report
+
+![report](resources/EasyEnsembleAdaBoostClassifier_Imbalanced_Classification_Report.png)
+
+
+
+
 
 
