@@ -5,6 +5,8 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 
 # Results:
 
+# Deliverable 1+2
+
 ## Naive Random Oversampling
 
 1. Accuracy score for the mode:
