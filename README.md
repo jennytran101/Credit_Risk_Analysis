@@ -39,6 +39,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ![score](resources/undersampling_accracy_score.png)
 
 2. Undersampling Confusion matrix
+
 ![matrix](resources/undersampling_confusion_matrix.png)
 
 
