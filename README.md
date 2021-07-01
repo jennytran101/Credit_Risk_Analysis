@@ -101,7 +101,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 # Summary:
 Oversampling models has accuracy scores of 66%. Undersampling model has accuracy scores of 54%. Based on the accuracy score the combination of 2 models mentioned above did not make much difference
 The random forest has accuracy scores of 78%. Ensemble boost models has accuracy scores of 93%. The ensemble model had the best precision and sensitivity for high-risk loans.
-We will miss the revenue if we overmarking the risk in wrong ways. 
+We will lose the revenue if we overmark the riskes even the high riskes or low riskes in wrong ways. 
 
 
 
