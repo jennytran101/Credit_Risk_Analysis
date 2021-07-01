@@ -8,6 +8,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ## Naive Random Oversampling
 
 1. Accuracy score for the mode:
+
 ![score](resources/NR_accuracy_score.png)
 
 2. Confusion matrix:
@@ -29,4 +30,5 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ![matrix](resources/smote_confusion_matrix.png)
 
 3. Imbalanced Classification Report
+
 ![report](resources/smote_imbalanced_classification_report.png)
