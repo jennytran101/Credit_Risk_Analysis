@@ -94,7 +94,7 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ![matrix](resources/EasyEnsembleAdaBoostClassifier_Confusion_matrix.png)
 
 
-3. Easy Ensemble AdaBoost Classifier Imbalanced Classification_Report
+3. Easy Ensemble AdaBoost Classifier Imbalanced Classification Report
 
 ![report](resources/EasyEnsembleAdaBoostClassifier_Imbalanced_Classification_Report.png)
 
