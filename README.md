@@ -48,3 +48,21 @@ As a lead data scientist build and evaluate machine learning model or algorithms
 ![report](resources/Undersampling_Imbalanced_Classification_Report.png)
 
 
+## Combination Sampling 
+
+1. Combination Sampling Accuracy Score
+
+![score](resources/Combination_Sampling_Accuracy_Score.png)
+
+2. Combination Sampling Confusion matrix
+
+![matrix](resources/Combination_Sampling_Confusion_matrix.png)
+
+
+3. Combination Imbalanced Classification Report
+
+![report](resources/Combination_mbalanced_Classification_Reportg.pn)
+
+
+
+
